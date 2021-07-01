@@ -1,2 +1,4 @@
 # master_slave_if
-master_slave_if  in spinalhdl
+simple master_slave interface  in spinalhdl
+spinalhdl file : master_slave_if/src/main/scala/dma_if.scala
+generate verilog file :dma_if.v
